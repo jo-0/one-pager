@@ -65,5 +65,12 @@ ul {
 }
 
 .domain {
+    text-decoration: none;
     color: black;
+}
+
+hr {
+    background-color: black;
+    border: none;
+    height: 1px;
 }
