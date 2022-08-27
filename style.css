@@ -34,9 +34,9 @@
 h1 {
     border-top: 4px solid black;
     font-family: "caros";
-    font-size: -webkit-xxx-large;
+    font-size: xxx-large;
     line-height: 50px;
-    padding: 10px 0;
+    padding: 5px 0 10px 0;
     margin: 20px 0 0px 0;
 }
 
@@ -58,9 +58,12 @@ ul {
     line-height: 30px;
 }
 
-.lang {
+.split {
     align-items: baseline;
     display: flex;
     justify-content: space-between;
-    padding: 4px 0;
+}
+
+.domain {
+    color: black;
 }
